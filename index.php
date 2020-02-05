@@ -22,7 +22,7 @@
 		<div id="elem">
 					<div class="cardParent">
 						<div class="test"><a href=""><img src="img/carte_mime.jpg"></a></div>
-						<div class="selectplayer">Choisissez votre pokémon</div>
+						<div class="selectplayer">Choisisseeez votre pokémon</div>
 						<div class="test" id="imgredim"><a href=""><img src="img/Carte_Qul.png"></a></div>
 					
 					</div>
