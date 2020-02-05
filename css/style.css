@@ -1,0 +1,58 @@
+*{
+	font-family: Montserrat,sans-serif;
+	list-style: none;
+	text-decoration: none;
+}
+#Titre{
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+}
+#btn{
+	display: flex;
+	justify-content: center;
+}
+#bold{
+	font-weight: bold;
+}
+#background{
+	display: flex;
+	justify-content: center;
+}
+#image{ 
+	width: 80%;
+	height: 80%;
+}
+#center{
+	margin: 100px auto;
+}
+/* 
+#elem{
+	width:100px;
+	height:100px;
+	background-color: red;
+	display: none;
+}
+ */
+
+
+#elem{
+
+	display:none;
+}
+
+.cardParent{
+	justify-content: space-evenly;
+	display:flex;
+}
+
+#imgredim img{
+	width:140%;
+}
+
+.selectplayer{
+
+	font-size:3em;
+	font-family: arial;
+
+}
